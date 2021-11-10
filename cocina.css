@@ -1,0 +1,15 @@
+button{background:cornflowerblue;
+color: black;}
+button:hover{background: grey;
+}
+body{background:beige;}
+
+.bu{background: cornflowerblue;
+    text-decoration: none;
+padding: 10px;
+display: inline-block;}
+.bu:hover{background: grey;}
+
+.sa{color: blue;}
+
+table{border-spacing: 2cm;}
